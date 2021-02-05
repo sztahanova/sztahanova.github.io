@@ -1,5 +1,5 @@
 import logo from './green-computer-code.svg';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
