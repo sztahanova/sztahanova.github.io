@@ -11,6 +11,7 @@ const NavigationBar = () => {
           <Nav.Link href="/">Home</Nav.Link>
           <Nav.Link href="react-paint-app">Paint</Nav.Link>
           <Nav.Link href="react-quiz-app">Quiz</Nav.Link>
+          <Nav.Link href="react-meme-generator">Meme Generator</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
