@@ -1,7 +1,7 @@
-import logo from "./green-computer-code.svg";
 import "./App.scss";
-import NavigationBar from "./components/NavigationBarComponent";
-import Footer from "./components/FooterComponent";
+import { Footer } from "./components/FooterComponent";
+import { NavigationBar } from "./components/NavigationBarComponent";
+import logo from "./green-computer-code.svg";
 
 function App() {
   return (

@@ -1,6 +1,4 @@
-import React from "react";
-
-const Footer = () => {
+export const Footer = () => {
   return (
     <footer className="bg-primary">
       <div className="empty-container" />
@@ -15,5 +13,3 @@ const Footer = () => {
     </footer>
   );
 };
-
-export default Footer;

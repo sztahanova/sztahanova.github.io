@@ -1,7 +1,6 @@
-import React from "react";
 import { Nav, Navbar } from "react-bootstrap";
 
-const NavigationBar = () => {
+export const NavigationBar = () => {
   return (
     <Navbar bg="primary" expand="sm" sticky="top">
       <Navbar.Brand href="#home">Sztahanova.Dev</Navbar.Brand>
@@ -17,5 +16,3 @@ const NavigationBar = () => {
     </Navbar>
   );
 };
-
-export default NavigationBar;
