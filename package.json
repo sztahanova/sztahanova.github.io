@@ -13,7 +13,6 @@
     "@types/react-dom": "^17.0.26",
     "bootstrap": "^5.3.3",
     "font-awesome": "^4.7.0",
-    "node-sass": "^9.0.0",
     "react": "^17.0.1",
     "react-bootstrap": "^2.10.9",
     "react-dom": "^17.0.2",
@@ -53,6 +52,7 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "prettier": "^2.8.8"
+    "prettier": "^2.8.8",
+    "sass": "^1.85.1"
   }
 }
